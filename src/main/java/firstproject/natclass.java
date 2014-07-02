@@ -7,7 +7,7 @@ public class natclass {
 	
 	public static void main(String[ ] args) {
 
-		int first_number;
+		int first_numbe;
 
 		first_number = 10;
 
