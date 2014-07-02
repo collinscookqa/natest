@@ -6,14 +6,14 @@ public class natclass {
 	
 	int first_numbe;
 	
-//	public static void main(String[ ] args) {
+public static void main(String[ ] args) {
 //
-//		int first_numbe;
+int first_number;
 //
-//		first_number = 10;
+first_number = 10;
 //
-//		System.out.println( "First number = " + first_number );
+System.out.println( "First number = " + first_number );
 //
-//		}
+}
 
 }
