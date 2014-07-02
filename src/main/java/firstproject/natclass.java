@@ -4,7 +4,7 @@ package firstproject;
 
 public class natclass {
 	
-	int first_numbe
+	int first_numbe;
 	
 //	public static void main(String[ ] args) {
 //
